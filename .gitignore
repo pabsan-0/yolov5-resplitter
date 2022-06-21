@@ -1,0 +1,11 @@
+dataset_out/*
+flatten/*
+text_files/*
+
+!dataset_out/.gitkeep
+!flatten/.gitkeep
+!text_files/.gitkeep
+
+
+robot2020
+splits/*copy*
